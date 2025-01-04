@@ -1,0 +1,8 @@
+flask
+openai
+flask-cors
+jwt
+langchain-community
+langchain_openai
+psycopg2
+faiss-cpu
